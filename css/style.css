@@ -160,3 +160,9 @@ body {
     color: var(--cor-secundaria);
     font-size: 0.8rem;
 }
+
+.rodape__desenvolvido {
+    padding: 24px;
+    background-color: var(--cor-titulos);
+    color: var(--cor-fundo);
+}
